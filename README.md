@@ -1,5 +1,7 @@
 # Tesco---Case-Study-Python-
 
+Python_Updated_Models contains updated models using feature selection and Oversampling of Minority Class using Resampling and SMOTE
+
 
 Use of Marketing Content Cards is a very common online advertising method. 
 Organisations nowadays scrape clickstream data from websites, in order to predict customers’ preferences based on the content 
