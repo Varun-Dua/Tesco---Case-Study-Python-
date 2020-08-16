@@ -3,13 +3,6 @@
 Python_Updated_Models contains updated models using feature selection and Oversampling of Minority Class using Resampling and SMOTE
 
 
-Use of Marketing Content Cards is a very common online advertising method. 
-Organisations nowadays scrape clickstream data from websites, in order to predict customers’ preferences based on the content 
-they click on. 
-
-Tesco employs various marketing content cards on it’s online shopping website. They gather data on customers who click on these 
-marketing cards.
-
 Web Usage Mining/Log mining
 Identifying or discovering interesting usage patterns obtained from Web Logs.
 These patterns enable you to understand the user behaviour. 
